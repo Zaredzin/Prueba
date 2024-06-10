@@ -6,7 +6,7 @@ import {Link} from 'expo-router'
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Pito guarzon</Text>
+      <Text>Pito guarzon 2</Text>
       <StatusBar style="auto" />
       <Link href="/profile" style={{color: 'blue'}}>Pito perfil</Link>
     </View>
